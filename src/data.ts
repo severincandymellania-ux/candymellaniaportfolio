@@ -30,7 +30,7 @@ export const personalInfo = {
     phone: "+48 517 072 256",
     address: "20-001, Lublin 06, Poland",
     social: {
-        github: "https://github.com",
+        github: "https://github.com/severincandymellania-ux",
         linkedin: "https://www.linkedin.com/in/candymellania-severin-658158209/",
         twitter: "https://twitter.com"
     }
