@@ -31,7 +31,7 @@ export const personalInfo = {
     address: "20-001, Lublin 06, Poland",
     social: {
         github: "https://github.com/severincandymellania-ux",
-        linkedin: "https://www.linkedin.com/in/candymellania-severin-658158209/",
+        linkedin: "https://www.linkedin.com/in/candy-mellania-severin-658158209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
         twitter: "https://twitter.com"
     }
 };
